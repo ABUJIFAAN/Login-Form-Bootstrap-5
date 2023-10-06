@@ -1,0 +1,56 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row
+{
+    background: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px;
+}
+.login img
+{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.login h1
+{
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Pacifico', cursive;
+}
+.inp
+{
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: 17px 4px 45px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 17px 4px 45px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 17px 4px 45px -1px rgba(0,0,0,0.75);
+}
+.b1
+{
+    width: 50%;
+    border-radius: 20px;
+}
+p
+{
+    font-size: 1rem;
+    padding-top: 10px;
+}
+.fa-facebook
+{
+    font-size: 2rem;
+    color: darkblue;
+    padding-right: 10px;
+}
+.fa-google
+{
+    font-size: 2rem;
+    color: red;
+}
